@@ -25,7 +25,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // Import your library
-import { SampleModule } from 'ngx-country-list';
+import { CountryModule } from 'ngx-country-list';
 
 @NgModule({
   declarations: [
@@ -43,25 +43,6 @@ import { SampleModule } from 'ngx-country-list';
 export class AppModule { }
 ```
 
-
-
-
-
-
-## Development
-
-To generate all `*.js`, `*.d.ts` and `*.metadata.json` files:
-
-```bash
-$ npm run build
-```
-
-To lint all `*.ts` files:
-
-```bash
-$ npm run lint
-```
-
 ## License
 
-MIT © [Nandakumar R](mailto:nandakumar.r@perfomatix.com)
+MIT © [Nandakumar R](mailto:nandan.galaxies@gmail.com)
